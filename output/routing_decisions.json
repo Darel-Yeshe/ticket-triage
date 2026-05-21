@@ -1,0 +1,38 @@
+[
+  {
+    "ticket_id": "T1",
+    "route": "auto_triage",
+    "confidence": 0.9,
+    "routing_reason": "Confidence 0.9 meets threshold"
+  },
+  {
+    "ticket_id": "T2",
+    "route": "auto_triage",
+    "confidence": 0.8,
+    "routing_reason": "Confidence 0.8 meets threshold"
+  },
+  {
+    "ticket_id": "T3",
+    "route": "auto_triage",
+    "confidence": 0.8,
+    "routing_reason": "Confidence 0.8 meets threshold"
+  },
+  {
+    "ticket_id": "T4",
+    "route": "auto_triage",
+    "confidence": 0.9,
+    "routing_reason": "Confidence 0.9 meets threshold"
+  },
+  {
+    "ticket_id": "T5",
+    "route": "auto_triage",
+    "confidence": 0.9,
+    "routing_reason": "Confidence 0.9 meets threshold"
+  },
+  {
+    "ticket_id": "T6",
+    "route": "auto_triage",
+    "confidence": 0.9,
+    "routing_reason": "Confidence 0.9 meets threshold"
+  }
+]

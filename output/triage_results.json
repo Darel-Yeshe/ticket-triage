@@ -1,0 +1,56 @@
+[
+  {
+    "ticket_id": "T1",
+    "predicted_category": "login_access",
+    "predicted_urgency": "high",
+    "confidence": 0.9,
+    "route": "auto_triage",
+    "customer_reply": "I apologize for the frustration you're experiencing with accessing your account, and I understand the urgency of this issue. I'm here to help you resolve the problem with your login credentials. It's concerning that you're still encountering issues despite updating your password and receiving a reset email. I'll do my best to assist you in troubleshooting this matter further to regain access to your account.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T2",
+    "predicted_category": "billing",
+    "predicted_urgency": "medium",
+    "confidence": 0.8,
+    "route": "auto_triage",
+    "customer_reply": "I apologize for the delay you're experiencing with your withdrawal, and I understand how frustrating it can be to wait for funds to be transferred. I'm here to help you investigate the status of your withdrawal. I'll look into this matter further to determine the cause of the delay and provide you with an update on the expected timeline for the funds to be credited to your bank account. Please allow me to review this and I will get back to you with more information.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T3",
+    "predicted_category": "technical_issue",
+    "predicted_urgency": "medium",
+    "confidence": 0.8,
+    "route": "auto_triage",
+    "customer_reply": "I apologize for the frustration you're experiencing with our mobile site, particularly with the slow loading speed and chart freezing issue when switching tabs. I understand how this can be inconvenient, and I'm here to help you troubleshoot the problem. Our technical team will look into this matter to identify the cause and work on a resolution to improve the overall performance of our mobile site. If you have any further details or error messages, please feel free to share them with me.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T4",
+    "predicted_category": "verification",
+    "predicted_urgency": "low",
+    "confidence": 0.9,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for reaching out to us about verifying your account with your updated address. We understand the importance of keeping your account information current. To verify your new address, you will typically need to provide documentation that confirms your identity and residency at the new location, such as a utility bill or government-issued ID. Our team will be happy to guide you through the process and provide more specific details on the required documents.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T5",
+    "predicted_category": "account_closure",
+    "predicted_urgency": "low",
+    "confidence": 0.9,
+    "route": "auto_triage",
+    "customer_reply": "I understand that you would like to close your account permanently and appreciate you reaching out to us about this. We're sorry to hear that you've decided to stop using our service, and we'll be happy to assist you with the account closure process. To proceed, we will review your request and ensure that all necessary steps are taken to close your account in a timely manner. If you have any questions or concerns, please don't hesitate to let us know.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T6",
+    "predicted_category": "feature_request",
+    "predicted_urgency": "low",
+    "confidence": 0.9,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for taking the time to share your suggestion with us. We appreciate your feedback and understand that having a dark mode option in the dashboard would be a desirable feature for you. We will definitely consider this request as we continue to improve and enhance our platform. Your input is valuable to us, and we'll keep it in mind for future development.",
+    "internal_note": null
+  }
+]

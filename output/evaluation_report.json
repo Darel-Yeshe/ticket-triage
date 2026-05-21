@@ -1,0 +1,8 @@
+{
+  "total_tickets": 6,
+  "category_accuracy": 1.0,
+  "urgency_accuracy": 0.5,
+  "human_review_count": 0,
+  "auto_triage_count": 6,
+  "parse_failures": 0
+}
